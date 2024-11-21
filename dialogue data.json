@@ -1,0 +1,142 @@
+[
+	{
+		"title": "Begin",
+		"tags": "",
+		"body": "<< Remaja>>  << ShakeOn>> \nada apa ini pak?!\n<< ???>><< FadeIn>> \noh ini dek kita lagi menjalani program “GIAT” \n<< Remaja>> << ShakeOn>> \n[[GIAT? Apaan tuh pak?|choice1]]\n[[HAH GIAT? giat belajar pak?|choice2]]\n<< ???>> << Shake>> \nProgram ini dirancang oleh pemerintah Indonesia tujuan utamanya yaitu\n<< ???>> << Shake>>\nuntuk mengakhiri penularan penyakit tuberkulosis (TBC) di Indonesia hingga tahun 2030.\n<< Remaja>> << ShakeOn>> \n[[oh gitu ya pak, kalo remaja gitu boleh ikut ga pak?|choice3]]\n[[oh gitu, kalo aku boleh ikut ga pak?|choice4]]\n<< Remaja>> << ShakeOn>> \n[[wah, kalo gitu saya ikut ya.|choice5]]\n[[wah,otw ikut.|choice6]]\n<< Narrator>> << TombolNext>> << Stop>> \nTekan next",
+		"position": {
+			"x": 423,
+			"y": 217
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice1",
+		"tags": "",
+		"body": "<< Remaja>> << ShakeOn>> \nGIAT? Apaan tuh pak?\n<<???>> << Shake>> \nProgram GIAT merupakan singkatan dari “Gerakan Indonesia Akhiri Tuberkulosis”",
+		"position": {
+			"x": 180,
+			"y": 504
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice2",
+		"tags": "",
+		"body": "<< Remaja>>  << ShakeOn>> \r\nHAH GIAT? giat belajar pak?\r\n<<??? >> << Shake>> \r\nBukanlah dek Program GIAT itu merupakan singkatan dari “Gerakan Indonesia Akhiri Tuberkulosis”",
+		"position": {
+			"x": 780,
+			"y": -85
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice3",
+		"tags": "",
+		"body": "<< Remaja>>  << ShakeOn>> \noh gitu ya pak, kalo remaja gitu boleh ikut ga pak?\n<< ???>> << Shake>> \nBoleh banget dek!\nJustru remaja seumuran seperti kamu sangat disarankan untuk menjadi relawan dalam program GIAT ini!",
+		"position": {
+			"x": 756,
+			"y": 505
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice4",
+		"tags": "",
+		"body": "<< Remaja>>  << ShakeOn>> \noh gitu, kalo aku boleh ikut ga pak?\n<< ???>> << Shake>> \nBoleh lah masa enggak dek!\nJustru orang seperti kamu sangat cocok untuk menjadi relawan dalam program GIAT ini!",
+		"position": {
+			"x": 959,
+			"y": 194
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice5",
+		"tags": "",
+		"body": "<< Remaja>> << ShakeOn>> \nwah, kalo gitu saya ikut ya.\n<< ???>><< Shake>> \nboleh isi formulir ini dulu ya dek",
+		"position": {
+			"x": -221,
+			"y": 98
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice6",
+		"tags": "",
+		"body": "<< Remaja>>  << ShakeOn>> \nwah,otw ikut.\n<< ???>><< Shake>> \nkalo gitu tunggu apa lagi dek gass isi formulir ini",
+		"position": {
+			"x": 113,
+			"y": -166
+		},
+		"colorID": 0
+	},
+	{
+		"title": "SetelahNama",
+		"tags": "",
+		"body": "<< ???>> << Shake>> \nIzinkan bapak memperkenalkan diri ya\n<< Dr.Alpha>> << Shake>> \nNama bapak adalah Dr. Alpha sebagai koordinator program GIAT daerah ini.\n<< MC>> << ShakeOn>> \n[[  Jadi tugas pertama saya apa pak?|Choice7]]\n[[ Kalau gitu tugas pertama ku apa pak?|Choice8]]\n<< Dr.Alpha>> << Shake>> \nSambil kita menunggu hasil skrining dan pengumpulan data dari rekan tim saya\n<< Dr.Alpha>> << Shake>> \nDi daerah yang akan segera dilakukan vaksinasi massal\n<< Dr.Alpha>> << Shake>> \nSaya akan menjelaskan tentang penyakit ini terlebih dahulu.\n<< Dr.Alpha>> << Shake>> \nJadi penyakit tuberkulosis atau TBC merupakan salah satu penyakit menular yang berbahaya di dunia hingga saat ini.\n<< Dr.Alpha>> << Shake>> \nPenyakit ini disebabkan oleh bakteri Mycobacterium tuberkulosis.\n<< Dr.Alpha>> << Shake>> << tbc1>> \nPenyakit ini menular melalui air liur atau droplet oleh penderita TBC\n<< Dr.Alpha>> << Shake>> \nGejala-gejala penyakit ini itu beragam\n<< Dr.Alpha>> << Shake>> \nMulai dari batuk, nyeri pada bagian dada, kelelahan, penurunan berat badan yang signifikan.\n<< MC>> << ShakeOn>> \n[[Kalau begitu ngeri banget dong pak|choice9]]\n[[Wah TBC mengerikan sekali ya pak|choice10]]\n<< Dr.Alpha>> << Shake>> << tbc3>> \nBahkan kadang penyakit ini tidak bergejala alias TBC passive\n<< MC>> << ShakeOn>> \n[[ loh, kalo ga bergejala gimana pak cara taunya?|choice11]]\n[[Lah kalau gitu kalau aku kena TBC passive gimana cara tau nya|choice12]]\n<< Dr.Alpha>> << Shake>> \nCara mengetahui seseorang terjangkit TBC selain melihat gejalanya yang terlihat.\n<< Dr.Alpha>> << Shake>> << tbc2>> \nBisa juga melalui skrining seperti rekan tim saya tadi \n<< Dr.Alpha>> << Shake>> \nataupun juga rontgen dada  untuk melihat apakah ada Mycobacterium tuberkulosis di dalamnya.\n<< Dr.Alpha>> << Shake>> \nUntuk menghindari penyakit tersebut\n<< Dr.Alpha>> << Shake>> \nkita bisa dengan mulai dari menjaga imun tubuh kita, melakukan vaksinasi BCG, \n<< Dr.Alpha>> << Shake>> << tbc4>> \nmenjaga lingkungan dan diri kita sendiri supaya tetap sehat dan juga bersih. Dan masih banyak yang lain lagi.\n<< Dr.Alpha>> << Shake>> \nsalah satu solusi yang diterapkan di negara ini yaitu membuat program GIAT\n<< Dr.Alpha>> << Shake>> \nnah program ini merupakan program inisiatif dari pemerintahan Indonesia\n<< Dr.Alpha>> << Shake>> \ntujuanya yaitu untuk memberantas penyakit tuberkulosis atau TBC di Indonesia.\n<< Dr.Alpha>> << Shake>><< tbc5>> \nprogram ini telah dibuat sejak 2019 dan memiliki target tuntas program hingga tahun 2030.\n<< Dr.Alpha>> << Shake>> << awal>> \nnah datanya sudah ada, yuk kita langsung meluncur saja ke lokasinya\n<< Dr.Alpha>> << Shake>> \nKita punya target 25 orang di wilayah tersebut untuk divaksinasi\n<< MC>> << ShakeOn>>  << Main>> \nGas pak aku udah ga sabar!",
+		"position": {
+			"x": 1140,
+			"y": -205
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Choice7",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>>\n Jadi tugas pertama saya apa pak?",
+		"position": {
+			"x": 1078,
+			"y": -459
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Choice8",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>>  \nKalau gitu tugas pertama ku apa pak?",
+		"position": {
+			"x": 1483,
+			"y": -422
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice9",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>> \nKalau begitu ngeri banget dong pak\n<< Dr.Alpha>> << Shake>> \nBetul tuh dek",
+		"position": {
+			"x": 987,
+			"y": 39
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice10",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>>\nWah TBC mengerikan sekali ya pak\n<< Dr.Alpha>> << Shake>>\nBener banget dek",
+		"position": {
+			"x": 1250,
+			"y": 35
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice11",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>> \nloh, kalo ga bergejala gimana pak cara taunya?",
+		"position": {
+			"x": 1454,
+			"y": 237
+		},
+		"colorID": 0
+	},
+	{
+		"title": "choice12",
+		"tags": "",
+		"body": "<< MC>> << ShakeOn>> \nLah kalau gitu kalau aku kena TBC passive gimana cara tau nya",
+		"position": {
+			"x": 1546,
+			"y": -29
+		},
+		"colorID": 0
+	}
+]
